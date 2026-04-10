@@ -1,0 +1,292 @@
+{
+  "analysis_date": "2026-04-10T17:44:52.062063",
+  "total_stories_analyzed": 30,
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "How NASA built Artemis II's fault-tolerant compute",
+      "category": "technology",
+      "engagement_score": 476,
+      "score": 320,
+      "num_comments": 78,
+      "author": "user3"
+    },
+    {
+      "rank": 2,
+      "title": "Code is run more than read",
+      "category": "technology",
+      "engagement_score": 349,
+      "score": 245,
+      "num_comments": 52,
+      "author": "user1"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI backs Illinois bill that would limit when AI",
+      "category": "technology",
+      "engagement_score": 320,
+      "score": 200,
+      "num_comments": 60,
+      "author": "user4"
+    },
+    {
+      "rank": 4,
+      "title": "We've raised $17M to build what comes after Git",
+      "category": "technology",
+      "engagement_score": 320,
+      "score": 210,
+      "num_comments": 55,
+      "author": "user5"
+    },
+    {
+      "rank": 5,
+      "title": "War on Raze",
+      "category": "worldnews",
+      "engagement_score": 290,
+      "score": 190,
+      "num_comments": 50,
+      "author": "user13"
+    },
+    {
+      "rank": 6,
+      "title": "FBI used iPhone notification data to retrieve deleted messages",
+      "category": "technology",
+      "engagement_score": 270,
+      "score": 180,
+      "num_comments": 45,
+      "author": "user2"
+    },
+    {
+      "rank": 7,
+      "title": "US summons bank bosses over cyber risks from Anthr",
+      "category": "technology",
+      "engagement_score": 259,
+      "score": 175,
+      "num_comments": 42,
+      "author": "user7"
+    },
+    {
+      "rank": 8,
+      "title": "Charcuterie - Visual similarity Unicode explorer",
+      "category": "technology",
+      "engagement_score": 236,
+      "score": 160,
+      "num_comments": 38,
+      "author": "user10"
+    },
+    {
+      "rank": 9,
+      "title": "Mexico's President Sheinbaum Decrees Universal Hea",
+      "category": "worldnews",
+      "engagement_score": 235,
+      "score": 155,
+      "num_comments": 40,
+      "author": "user19"
+    },
+    {
+      "rank": 10,
+      "title": "IPv6 is the only way forward",
+      "category": "worldnews",
+      "engagement_score": 221,
+      "score": 145,
+      "num_comments": 38,
+      "author": "user27"
+    }
+  ],
+  "category_analysis": {
+    "technology": {
+      "count": 9,
+      "avg_engagement": 290.0,
+      "avg_score": 195.56,
+      "avg_comments": 47.22,
+      "top_story": {
+        "title": "How NASA built Artemis II's fault-tolerant compute",
+        "engagement": 476
+      }
+    },
+    "worldnews": {
+      "count": 8,
+      "avg_engagement": 203.5,
+      "avg_score": 137.5,
+      "avg_comments": 33.0,
+      "top_story": {
+        "title": "War on Raze",
+        "engagement": 290
+      }
+    },
+    "science": {
+      "count": 1,
+      "avg_engagement": 191.0,
+      "avg_score": 135.0,
+      "avg_comments": 28.0,
+      "top_story": {
+        "title": "How Close Is Too Close? Applying Fluid Dynamics Re",
+        "engagement": 191
+      }
+    },
+    "sports": {
+      "count": 4,
+      "avg_engagement": 142.75,
+      "avg_score": 101.25,
+      "avg_comments": 20.75,
+      "top_story": {
+        "title": "Inflation Rose to 3.3% in March, Driven by Rising",
+        "engagement": 189
+      }
+    },
+    "entertainment": {
+      "count": 8,
+      "avg_engagement": 109.38,
+      "avg_score": 80.62,
+      "avg_comments": 14.38,
+      "top_story": {
+        "title": "Show HN: I built a Cargo-like build tool for C/C++",
+        "engagement": 166
+      }
+    }
+  },
+  "top_authors": [
+    {
+      "rank": 1,
+      "author": "user3",
+      "story_count": 1,
+      "avg_engagement": 476.0
+    },
+    {
+      "rank": 2,
+      "author": "user1",
+      "story_count": 1,
+      "avg_engagement": 349.0
+    },
+    {
+      "rank": 3,
+      "author": "user4",
+      "story_count": 1,
+      "avg_engagement": 320.0
+    },
+    {
+      "rank": 4,
+      "author": "user5",
+      "story_count": 1,
+      "avg_engagement": 320.0
+    },
+    {
+      "rank": 5,
+      "author": "user13",
+      "story_count": 1,
+      "avg_engagement": 290.0
+    },
+    {
+      "rank": 6,
+      "author": "user2",
+      "story_count": 1,
+      "avg_engagement": 270.0
+    },
+    {
+      "rank": 7,
+      "author": "user7",
+      "story_count": 1,
+      "avg_engagement": 259.0
+    },
+    {
+      "rank": 8,
+      "author": "user10",
+      "story_count": 1,
+      "avg_engagement": 236.0
+    },
+    {
+      "rank": 9,
+      "author": "user19",
+      "story_count": 1,
+      "avg_engagement": 235.0
+    },
+    {
+      "rank": 10,
+      "author": "user27",
+      "story_count": 1,
+      "avg_engagement": 221.0
+    }
+  ],
+  "trending_keywords": [
+    {
+      "keyword": "show",
+      "frequency": 12
+    },
+    {
+      "keyword": "built",
+      "frequency": 2
+    },
+    {
+      "keyword": "build",
+      "frequency": 2
+    },
+    {
+      "keyword": "universal",
+      "frequency": 2
+    },
+    {
+      "keyword": "python",
+      "frequency": 2
+    },
+    {
+      "keyword": "close",
+      "frequency": 2
+    },
+    {
+      "keyword": "towards",
+      "frequency": 2
+    },
+    {
+      "keyword": "hardware",
+      "frequency": 2
+    },
+    {
+      "keyword": "free",
+      "frequency": 2
+    },
+    {
+      "keyword": "nasa",
+      "frequency": 1
+    },
+    {
+      "keyword": "artemis",
+      "frequency": 1
+    },
+    {
+      "keyword": "ii's",
+      "frequency": 1
+    },
+    {
+      "keyword": "fault-tolerant",
+      "frequency": 1
+    },
+    {
+      "keyword": "compute",
+      "frequency": 1
+    },
+    {
+      "keyword": "code",
+      "frequency": 1
+    },
+    {
+      "keyword": "more",
+      "frequency": 1
+    },
+    {
+      "keyword": "than",
+      "frequency": 1
+    },
+    {
+      "keyword": "read",
+      "frequency": 1
+    },
+    {
+      "keyword": "openai",
+      "frequency": 1
+    },
+    {
+      "keyword": "backs",
+      "frequency": 1
+    }
+  ]
+}
